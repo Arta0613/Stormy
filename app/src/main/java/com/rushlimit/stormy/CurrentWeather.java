@@ -1,4 +1,4 @@
-package com.rushlimit.story;
+package com.rushlimit.stormy;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

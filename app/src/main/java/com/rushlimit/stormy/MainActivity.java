@@ -1,4 +1,4 @@
-package com.rushlimit.story;
+package com.rushlimit.stormy;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;
